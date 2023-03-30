@@ -11,6 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Exercicios" target="17" />
       <module name="POO" target="17" />
     </bytecodeTargetLevel>
   </component>
